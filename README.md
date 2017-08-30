@@ -1,7 +1,6 @@
-# Model Source Code of the publication
-Cornejo-Donoso, J., Einarsson, B.,  Birnir, B., Gaines, S.D. (Under Review) Effects of fish movement assumptions on the design of a marine protected area to protect an overfished stock. PlosONE
+# Cornejo-Donoso, J., Einarsson, B.,  Birnir, B., Gaines, S.D. (Under Review) Effects of fish movement assumptions on the design of a marine protected area to protect an overfished stock. PlosONE
 
-This model is an extention to the model implemented by A. Babaro for the publication XXXX.
+Here is the source code used in the simulation of the publication. It is an extention of the model implemented by A. Babaro for the publication XXXX, where a population, stock and fisheries dynamics was included.
 
 Abstract:
 Marine Protected Areas (MPA) are important management tools shown to protect marine organisms, restore biomass, and increase fisheries yields. While MPAs have been successful in meeting these goals for many relatively sedentary species, highly mobile organisms may get few benefits from this type of spatial protection due to their frequent movement outside the protected area. The use of a large MPA can compensate for extensive movement, but testing this empirically is challenging, as it requires both large areas and sufficient time series to draw conclusions. To overcome this limitation, MPA models have been used to identify designs and predict potential outcomes, but these simulations are highly sensitive to the assumptions describing the organism’s movements. 
@@ -10,3 +9,4 @@ In this paper, we use an individual based model, interconnected to population an
 Our results show that the optimal MPA size to maximize fisheries benefits increases as movement complexity increases from ~10% for the diffusive assumption to ~30% when full environment forcing was used. We also found that in cases of limited understanding of the movement dynamics of a species, simplified assumptions can be used to provide a guide for the minimum MPA size needed to effectively protect the stock. However, using oversimplified assumptions can produce suboptimal designs and lead to a density underestimation of ca. 30%; therefore, the main value of detailed movement dynamics is to provide more reliable MPA design and predicted outcomes.
 Large MPAs can be effective in recovering overfished stocks, protect pelagic fish and provide significant increases in fisheries yields. Our models provide a means to empirically test this spatial management tool, which theoretical evidence consistently suggests as an effective alternative to managing highly mobile pelagic stocks. 
 
+Keywords: IBM; Individual Based Model; MPA; Marine Protected Area; MPA; Large Marine Protected Areas; management; Fisheries; Fisheries Management; Fish Movement
