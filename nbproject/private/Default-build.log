@@ -1,3 +1,0 @@
-mpicxx  -c fish.cpp
-make: mpicxx: No such file or directory
-make: *** [fish.o] Error 1
