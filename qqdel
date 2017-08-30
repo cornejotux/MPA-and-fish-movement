@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in seq {1811988..1812082}
+do 
+	echo "$i.node96"
+	qdel "$i.node96"
+done
+
