@@ -2,10 +2,10 @@
 
 This is the source code used in the simulations described in the publication. 
 This code includes a combination of interacting models that simulates the dynamics of a highly mobile organism <i>population</i> subject to extraction by a <i>fishery</i> when a <i>marine protected area</i> (MPA) is implemented. 
-This model is an extention of the Individual Based Model implemented <i>A. Barbaro et al. (2009)</i>. 
+This model is an extention of the Individual Based Model implemented <i>[A. Barbaro et al. (2009)](https://academic.oup.com/icesjms/article/66/5/826/663038)</i>. 
 
 ### Reference:
-- Barbaro, A., Einarsson, B., Birnir, B., Sigurðsson, S., Valdimarsson, H., Karvel Pálsson, Ó., Sveinbjörnsson, S., Sigurðsson, Þ., 2009. Modelling and simulations of the migration of pelagic fish. ICES J. Mar. Sci. 66, 826–838.
+- [Barbaro, A., Einarsson, B., Birnir, B., Sigurðsson, S., Valdimarsson, H., Karvel Pálsson, Ó., Sveinbjörnsson, S., Sigurðsson, Þ., 2009. Modelling and simulations of the migration of pelagic fish. ICES J. Mar. Sci. 66, 826–838](https://academic.oup.com/icesjms/article/66/5/826/663038).
 
 
 ## Paper Abstract:
